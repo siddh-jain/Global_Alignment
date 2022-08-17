@@ -1,0 +1,2 @@
+void GlobalAlignment(char* A,char* B,int A_len,int B_len,int match,int mismatch,int gap,int** M, char** M_t);
+int checker(char* A,char* B,int A_len,int B_len,int match,int mismatch,int gap,int** M, char** M_t);
